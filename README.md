@@ -156,3 +156,7 @@ Recommended pattern:
 
 Add your preferred license (MIT/BSD-3/Apache-2.0).  
 If this is part of a company/internal project, clarify redistribution rules here.
+## Author
+Author : Enes ÜNLÜ
+Contact: enesunlu40@outlook.com.tr (Feel free to ask question or to talk for improvements by my e-mail address)
+
