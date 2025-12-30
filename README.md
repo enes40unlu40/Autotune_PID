@@ -150,13 +150,11 @@ Recommended pattern:
 - `pid_controller.c/.h` – runtime PID control loop (not included here)
 - `platform_motor_if.c/.h` – hardware-specific glue: timer, motor packets, sensors
 
----
+--- 
 
-## License
-
-Add your preferred license (MIT/BSD-3/Apache-2.0).  
-If this is part of a company/internal project, clarify redistribution rules here.
 ## Author
+
 Author : Enes ÜNLÜ
+
 Contact: enesunlu40@outlook.com.tr (Feel free to ask question or to talk for improvements by my e-mail address)
 
